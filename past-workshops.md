@@ -5,7 +5,8 @@ permalink: /past-workshops/
 ---
 
 ![carpentry logo](fig/banner-pastworkshops.png)
-<table class="styled-table">
+
+<table>
     <thead>
         <tr>
             <th>Date</th>
@@ -13,8 +14,8 @@ permalink: /past-workshops/
         </tr>
     </thead>
     <tbody>
-        <tr class="active-row">
-            <td>2021 Workshops</td>
+        <tr>
+            <td><b>2021 Workshops</b></td>
         </tr>
         <tr>
             <td>August 9, 10</td>
@@ -57,7 +58,7 @@ permalink: /past-workshops/
         <td><a href="https://ucsbcarpentry.github.io/2021-01-21-SWC-Bash-online/">Intro to Bash Shell</a></td>
         </tr>
         <tr class="active-row">
-            <td>2020 Workshops</td>
+            <td><b>2020 Workshops</b></td>
         </tr>
         <tr>
         <td>December 16-17</td>
@@ -111,7 +112,7 @@ permalink: /past-workshops/
         <td><a href="https://ucsbcarpentry.github.io/2020-01-17-UCSB-git/">Version Control with Git</a></td>
         </tr>
         <tr class="active-row">
-            <td>2019 Workshops</td>
+            <td><b>2019 Workshops</b></td>
         </tr>
         <tr>
         <td>Nov 14-22</td>
@@ -151,7 +152,7 @@ permalink: /past-workshops/
         </tr>
         <tr>
         <tr class="active-row">
-            <td>2016 Workshops</td>
+            <td><b>2016 Workshops</b></td>
         </tr>
         <tr>
         <td>April 15</td>
